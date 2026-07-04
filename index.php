@@ -191,4 +191,31 @@ require 'includes/header.php';
       <span class="chip"><strong>Kanpur</strong> — leather</span>
       <span class="chip"><strong>Chennai</strong> — leather &amp; footwear</span>
       <span class="chip"><strong>Moradabad</strong> — metalware</span>
-      <span class="chip"><strong>Jodhpur</strong> — wooden furnitu
+      <span class="chip"><strong>Jodhpur</strong> — wooden furniture</span>
+      <span class="chip"><strong>Jaipur</strong> — prints, d&eacute;cor &amp; crafts</span>
+      <span class="chip"><strong>Khurja</strong> — ceramics</span>
+      <span class="chip"><strong>Karur</strong> — kitchen &amp; table linen</span>
+      <span class="chip"><strong>Baddi</strong> — pharma</span>
+      <span class="chip"><strong>Ahmedabad</strong> — pharma &amp; textiles</span>
+      <span class="chip"><strong>Kutch</strong> — artisanal crafts</span>
+      <span class="chip"><strong>Kochi</strong> — spices &amp; agro</span>
+      <span class="chip"><strong>Aligarh</strong> — locks &amp; hardware</span>
+      <span class="chip"><strong>Jamnagar</strong> — brass components</span>
+      <span class="chip"><strong>Kannauj</strong> — essential oils</span>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta-band">
+  <div class="container">
+    <h2>Manufacturing in India? Let's talk.</h2>
+    <p>Submit your company profile and we will review it against live and upcoming sourcing programmes. No fees, no middle layers — a direct line to a UK buyer.</p>
+    <div class="btn-row">
+      <a href="suppliers.php" class="btn btn-gold">Become a Supplier</a>
+      <a href="contact.php" class="btn btn-outline">Contact Us</a>
+    </div>
+  </div>
+</section>
+
+<?php require 'includes/footer.php'; ?>

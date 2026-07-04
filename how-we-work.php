@@ -104,4 +104,6 @@ require 'includes/header.php';
       <a href="contact.php" class="btn btn-outline">Ask a Question First</a>
     </div>
   </div>
-</sect
+</section>
+
+<?php require 'includes/footer.php'; ?>

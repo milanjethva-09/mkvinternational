@@ -171,4 +171,87 @@ require 'includes/header.php';
         <span class="eyebrow">07 — Agro &amp; Food Products</span>
         <h2>Agro &amp; Food Products</h2>
         <p>India is among the world's largest exporters of rice, spices and tea. We source staple and processed foods — basmati and non-basmati rice, whole and ground spices, tea &amp; coffee, pulses, edible oils and processed or frozen foods — for UK and EU wholesale and retail programmes.</p>
-   
+        <p>Food is a documentation-heavy category and we treat it accordingly: FSSAI-licensed exporters, batch traceability, residue and contaminant testing to destination-market limits, and correct labelling for UK FSA and EU requirements — all confirmed before goods ship, not after.</p>
+      </div>
+      <div class="spec-box">
+        <h4>Certifications We Look For</h4>
+        <ul>
+          <li>FSSAI licence &middot; APEDA / Spices Board registration</li>
+          <li>HACCP &middot; ISO 22000 &middot; BRC Food (preferred)</li>
+          <li>Residue &amp; contaminant test reports</li>
+          <li>Organic / Fairtrade (welcome)</li>
+        </ul>
+        <h4>Key Sourcing Regions</h4>
+        <ul>
+          <li>Karnal &amp; Amritsar — basmati rice</li>
+          <li>Kochi &amp; Guntur — spices</li>
+          <li>Assam &amp; Darjeeling — tea</li>
+          <li>Nashik &amp; Pune — processed foods</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="industry-block" id="beauty">
+      <div>
+        <span class="eyebrow">08 — Beauty &amp; Personal Care</span>
+        <h2>Beauty &amp; Personal Care</h2>
+        <p>Skincare, hair care, soaps, bath products, essential oils and fragrances — including private-label programmes for UK and EU retailers and brands. India's herbal and botanical manufacturing base is one of the strongest in the world.</p>
+        <p>Cosmetics entering the UK and EU need a compliant route to shelf: safety assessment (CPSR), responsible-person arrangements, correct INCI labelling and notification. We manage that pathway with our partners, and prioritise manufacturers who can supply full formulation and stability documentation.</p>
+      </div>
+      <div class="spec-box">
+        <h4>Certifications We Look For</h4>
+        <ul>
+          <li>ISO 22716 (cosmetics GMP)</li>
+          <li>AYUSH licence (herbal &amp; ayurvedic ranges)</li>
+          <li>Formulation, stability &amp; PET test data</li>
+          <li>COSMOS / Ecocert (welcome)</li>
+        </ul>
+        <h4>Key Sourcing Regions</h4>
+        <ul>
+          <li>Mumbai &amp; NCR — cosmetics manufacturing</li>
+          <li>Bengaluru — personal care &amp; naturals</li>
+          <li>Kannauj — essential oils &amp; attars</li>
+          <li>Ahmedabad — soaps &amp; toiletries</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="industry-block" id="hardware">
+      <div>
+        <span class="eyebrow">09 — Engineering &amp; Hardware</span>
+        <h2>Engineering &amp; Hardware</h2>
+        <p>Architectural and builders' hardware, brass components, hand tools, fasteners, and kitchen &amp; bathroom fittings from India's long-established engineering clusters — Aligarh locks and hardware, Jamnagar brass, Ludhiana and Jalandhar tools, Rajkot castings.</p>
+        <p>In this category the spec sheet rules: material grades, plating and finish standards, dimensional tolerances and salt-spray or load testing are defined in the tech pack and verified with material test certificates and pre-shipment inspection.</p>
+      </div>
+      <div class="spec-box">
+        <h4>Certifications We Look For</h4>
+        <ul>
+          <li>ISO 9001 quality systems</li>
+          <li>CE / UKCA where applicable</li>
+          <li>Material test certificates (MTC)</li>
+          <li>Salt-spray / plating test reports</li>
+        </ul>
+        <h4>Key Sourcing Regions</h4>
+        <ul>
+          <li>Aligarh — locks &amp; builders' hardware</li>
+          <li>Jamnagar — brass parts &amp; fittings</li>
+          <li>Ludhiana &amp; Jalandhar — hand tools</li>
+          <li>Rajkot — castings &amp; bathroom fittings</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<section class="cta-band">
+  <div class="container">
+    <h2>Manufacture in one of these categories?</h2>
+    <p>Tell us what you make, what certifications you hold and where you currently export. We review every profile against live and upcoming programmes.</p>
+    <div class="btn-row">
+      <a href="suppliers.php" class="btn btn-gold">Submit Your Company Profile</a>
+    </div>
+  </div>
+</section>
+
+<?php require 'includes/footer.php'; ?>
