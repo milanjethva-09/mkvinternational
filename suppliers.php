@@ -152,6 +152,7 @@ $error = isset($_GET['error']);
         <div class="form-submit">
           <button type="submit" class="btn btn-navy">Submit Company Profile</button>
         </div>
+        <p class="form-note">By submitting this form you agree to our <a href="privacy.php">Privacy Policy</a>.</p>
         <p class="form-note">Prefer email? Send your company profile and catalogue directly to <a href="mailto:<?php echo CONTACT_EMAIL; ?>"><?php echo CONTACT_EMAIL; ?></a>.</p>
       </form>
     </div>

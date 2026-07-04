@@ -11,6 +11,7 @@ define('COMPANY_NO',    '14529274');
 define('COMPANY_ADDR',  '71–75 Shelton Street, Covent Garden, London WC2H 9JQ, United Kingdom');
 define('COMPANY_CH_URL','https://find-and-update.company-information.service.gov.uk/company/14529274');
 define('COMPANY_EST',   '2022');
+define('COMPANY_VAT',   ''); // Not VAT-registered. If this changes, set e.g. 'GB123456789' — it will then appear in the footer automatically.
 
 /* --- Contact (email-only by design — no phone published) --- */
 define('SITE_URL',        'https://www.mkvinternational.co.uk');

@@ -83,6 +83,7 @@ if ($formType === 'supplier') {
 
 $lines[] = '';
 $lines[] = '---';
+$lines[] = COMPANY_NAME . ' · Company No. ' . COMPANY_NO . ' · Registered office: ' . COMPANY_ADDR;
 $lines[] = 'Sent: ' . date('Y-m-d H:i:s') . ' (server time)';
 $lines[] = 'IP:   ' . ($_SERVER['REMOTE_ADDR'] ?? 'unknown');
 $body = implode("\n", $lines);

@@ -89,6 +89,7 @@ $error = isset($_GET['error']);
           <div class="form-submit">
             <button type="submit" class="btn btn-navy">Send Message</button>
           </div>
+          <p class="form-note">By submitting this form you agree to our <a href="privacy.php">Privacy Policy</a>.</p>
         </form>
       </div>
     </div>

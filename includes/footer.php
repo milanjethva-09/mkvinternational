@@ -15,6 +15,8 @@
       <a href="how-we-work.php">How We Work</a>
       <a href="suppliers.php">Become a Supplier</a>
       <a href="contact.php">Contact</a>
+      <a href="privacy.php">Privacy Policy</a>
+      <a href="terms.php">Terms of Use</a>
       <a href="<?php echo COMPANY_CH_URL; ?>" target="_blank" rel="noopener">Companies House Record ↗</a>
     </div>
 
@@ -40,9 +42,9 @@
 
   <div class="footer-legal">
     <div class="container">
-      <p><?php echo COMPANY_NAME; ?> &middot; Registered in England &amp; Wales &middot; Company No. <?php echo COMPANY_NO; ?> &middot; Incorporated December <?php echo COMPANY_EST; ?><br>
+      <p><?php echo COMPANY_NAME; ?> &middot; Registered in England &amp; Wales &middot; Company No. <?php echo COMPANY_NO; ?><?php echo COMPANY_VAT !== '' ? ' &middot; VAT No. ' . COMPANY_VAT : ''; ?> &middot; Incorporated December <?php echo COMPANY_EST; ?><br>
       Registered office: <?php echo COMPANY_ADDR; ?></p>
-      <p>&copy; <?php echo date('Y'); ?> <?php echo COMPANY_NAME; ?>. All rights reserved.</p>
+      <p>&copy; <?php echo date('Y'); ?> <?php echo COMPANY_NAME; ?>. All rights reserved. &middot; <a href="privacy.php">Privacy Policy</a> &middot; <a href="terms.php">Terms of Use</a></p>
     </div>
   </div>
 </footer>
