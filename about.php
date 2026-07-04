@@ -33,7 +33,7 @@ require 'includes/header.php';
           <tr><th>Registered office</th><td><?php echo COMPANY_ADDR; ?></td></tr>
           <tr><th>Markets served</th><td>United Kingdom &amp; European Union</td></tr>
           <tr><th>Sourcing geography</th><td>India — cluster-based sourcing</td></tr>
-          <tr><th>Languages</th><td>English &amp; Hindi</td></tr>
+          <tr><th>Working language</th><td>English</td></tr>
         </table>
       </div>
     </div>

@@ -85,7 +85,7 @@ require 'includes/header.php';
       </div>
       <div class="card reveal">
         <h3>Communication</h3>
-        <p>English and Hindi, by email, phone or WhatsApp. UK office hours with India-friendly evening availability. Supplier enquiries answered within two business days.</p>
+        <p>Email-first, with scheduled calls for active programmes — all business is conducted in English. UK office hours with India-friendly response windows; supplier enquiries answered within two business days.</p>
       </div>
       <div class="card reveal">
         <h3>Confidentiality</h3>
@@ -104,6 +104,4 @@ require 'includes/header.php';
       <a href="contact.php" class="btn btn-outline">Ask a Question First</a>
     </div>
   </div>
-</section>
-
-<?php require 'includes/footer.php'; ?>
+</sect

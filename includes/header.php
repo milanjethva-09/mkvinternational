@@ -24,8 +24,6 @@
     <span class="topbar-legal">Registered in England &amp; Wales &middot; Company No. <?php echo COMPANY_NO; ?></span>
     <span class="topbar-contact">
       <a href="mailto:<?php echo CONTACT_EMAIL; ?>"><?php echo CONTACT_EMAIL; ?></a>
-      <span class="topbar-sep">|</span>
-      <a href="<?php echo wa_link(); ?>" target="_blank" rel="noopener">WhatsApp: <?php echo PHONE_DISPLAY; ?></a>
     </span>
   </div>
 </div>

@@ -1,7 +1,7 @@
 <?php
 $currentPage = 'industries';
 $pageTitle = 'Industries We Source — Organic, Pharma, Apparel, Leather, Home & Kitchen | MKV International';
-$pageDesc  = 'Category-wise sourcing from India: organic & wellness, pharmaceutical & nutraceutical, fashion & apparel, leather goods, home & kitchen, handicrafts. Certifications and clusters we work with.';
+$pageDesc  = 'Category-wise sourcing from India: organic, pharma & nutraceutical, food & agro, beauty, apparel, leather, home & kitchen, hardware, handicrafts. Certifications and clusters we work with.';
 require 'includes/header.php';
 ?>
 
@@ -166,17 +166,9 @@ require 'includes/header.php';
       </div>
     </div>
 
-  </div>
-</section>
-
-<section class="cta-band">
-  <div class="container">
-    <h2>Manufacture in one of these categories?</h2>
-    <p>Tell us what you make, what certifications you hold and where you currently export. We review every profile against live and upcoming programmes.</p>
-    <div class="btn-row">
-      <a href="suppliers.php" class="btn btn-gold">Submit Your Company Profile</a>
-    </div>
-  </div>
-</section>
-
-<?php require 'includes/footer.php'; ?>
+    <div class="industry-block" id="agro">
+      <div>
+        <span class="eyebrow">07 — Agro &amp; Food Products</span>
+        <h2>Agro &amp; Food Products</h2>
+        <p>India is among the world's largest exporters of rice, spices and tea. We source staple and processed foods — basmati and non-basmati rice, whole and ground spices, tea &amp; coffee, pulses, edible oils and processed or frozen foods — for UK and EU wholesale and retail programmes.</p>
+   

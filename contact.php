@@ -1,7 +1,7 @@
 <?php
 $currentPage = 'contact';
 $pageTitle = 'Contact — MKV International Ltd, Covent Garden, London';
-$pageDesc  = 'Contact MKV International Limited: 71-75 Shelton Street, Covent Garden, London WC2H 9JQ. Email, phone and WhatsApp. English & Hindi spoken.';
+$pageDesc  = 'Contact MKV International Limited: 71-75 Shelton Street, Covent Garden, London WC2H 9JQ. Email and enquiry form — supplier enquiries answered within two business days.';
 require 'includes/header.php';
 $sent  = isset($_GET['sent']);
 $error = isset($_GET['error']);
@@ -11,7 +11,7 @@ $error = isset($_GET['error']);
   <div class="container">
     <span class="eyebrow">Contact</span>
     <h1>Talk to a decision-maker, not a call centre.</h1>
-    <p>Email, call or WhatsApp — in English or Hindi. Supplier enquiries are answered within two business days.</p>
+    <p>Every enquiry goes straight to the buying team in London. Supplier enquiries are answered within two business days.</p>
   </div>
 </section>
 
@@ -27,11 +27,6 @@ $error = isset($_GET['error']);
         <div class="contact-card">
           <h3>Email</h3>
           <p><a href="mailto:<?php echo CONTACT_EMAIL; ?>"><?php echo CONTACT_EMAIL; ?></a></p>
-        </div>
-        <div class="contact-card">
-          <h3>Phone &amp; WhatsApp</h3>
-          <p><a href="<?php echo wa_link(); ?>" target="_blank" rel="noopener"><?php echo PHONE_DISPLAY; ?></a></p>
-          <p style="margin-top:8px; font-size:13px;">English &amp; Hindi &middot; हिंदी में बात कर सकते हैं</p>
         </div>
         <div class="contact-card">
           <h3>Hours</h3>

@@ -10,7 +10,6 @@
         </span>
       </div>
       <p>A London-based import and sourcing house connecting quality-certified Indian manufacturers with retailers and brands across the United Kingdom and the European Union.</p>
-      <p class="footer-lang">Communication in English &amp; Hindi &middot; हिंदी में बात कर सकते हैं</p>
     </div>
 
     <div class="footer-col">
@@ -30,13 +29,15 @@
       <a href="industries.php#leather">Leather Goods</a>
       <a href="industries.php#home">Home &amp; Kitchen</a>
       <a href="industries.php#handicrafts">Handicrafts &amp; Lifestyle</a>
+      <a href="industries.php#agro">Agro &amp; Food Products</a>
+      <a href="industries.php#beauty">Beauty &amp; Personal Care</a>
+      <a href="industries.php#hardware">Engineering &amp; Hardware</a>
     </div>
 
     <div class="footer-col">
       <h4>Contact</h4>
       <p class="footer-contact-line"><?php echo COMPANY_ADDR; ?></p>
       <p class="footer-contact-line"><a href="mailto:<?php echo CONTACT_EMAIL; ?>"><?php echo CONTACT_EMAIL; ?></a></p>
-      <p class="footer-contact-line"><a href="<?php echo wa_link(); ?>" target="_blank" rel="noopener">WhatsApp: <?php echo PHONE_DISPLAY; ?></a></p>
       <p class="footer-contact-line footer-hours"><?php echo HOURS_UK; ?><br><?php echo HOURS_IN; ?></p>
     </div>
   </div>
@@ -72,7 +73,7 @@
     "addressCountry": "GB"
   },
   "areaServed": ["GB", "EU", "IN"],
-  "knowsLanguage": ["en", "hi"],
+  "knowsLanguage": "en",
   "description": "London-based import and sourcing company connecting Indian manufacturers with retailers across the UK and EU."
 }
 </script>

@@ -35,7 +35,7 @@ $error = isset($_GET['error']);
       <div class="step reveal">
         <div class="step-num">3</div>
         <h3>Introduction Call</h3>
-        <p>A call in English or Hindi — your capabilities, capacities, current export markets and what programmes could suit you.</p>
+        <p>A scheduled call to discuss your capabilities, capacities, current export markets and which programmes could suit you.</p>
       </div>
       <div class="step reveal">
         <div class="step-num">4</div>
@@ -66,7 +66,7 @@ $error = isset($_GET['error']);
 
     <div class="form-wrap">
       <?php if ($sent): ?>
-        <div class="alert alert-success"><strong>Thank you — your profile has been received.</strong> Our sourcing team will review it and respond within two business days. You can also reach us directly on WhatsApp for anything urgent.</div>
+        <div class="alert alert-success"><strong>Thank you — your profile has been received.</strong> Our sourcing team will review it and respond within two business days. For anything urgent, email us directly at <?php echo CONTACT_EMAIL; ?>.</div>
       <?php elseif ($error): ?>
         <div class="alert alert-error"><strong>Something went wrong.</strong> Please check the required fields and try again — or email your profile directly to <a href="mailto:<?php echo CONTACT_EMAIL; ?>"><?php echo CONTACT_EMAIL; ?></a>.</div>
       <?php endif; ?>
@@ -110,6 +110,9 @@ $error = isset($_GET['error']);
               <option>Leather Goods</option>
               <option>Home &amp; Kitchen</option>
               <option>Handicrafts &amp; Lifestyle</option>
+              <option>Agro &amp; Food Products</option>
+              <option>Beauty &amp; Personal Care</option>
+              <option>Engineering &amp; Hardware</option>
               <option>Other</option>
             </select>
           </div>
@@ -150,7 +153,7 @@ $error = isset($_GET['error']);
         <div class="form-submit">
           <button type="submit" class="btn btn-navy">Submit Company Profile</button>
         </div>
-        <p class="form-note">Prefer WhatsApp? Send your company profile and catalogue to <a href="<?php echo wa_link(); ?>" target="_blank" rel="noopener"><?php echo PHONE_DISPLAY; ?></a>. English &amp; Hindi both fine — हिंदी में भी भेज सकते हैं।</p>
+        <p class="form-note">Prefer email? Send your company profile and catalogue directly to <a href="mailto:<?php echo CONTACT_EMAIL; ?>"><?php echo CONTACT_EMAIL; ?></a>.</p>
       </form>
     </div>
   </div>
@@ -186,10 +189,6 @@ $error = isset($_GET['error']);
     <details class="faq-item">
       <summary>Will you visit our factory?</summary>
       <div class="faq-body">For significant programmes, yes — audits and factory visits by ourselves or independent inspection partners are part of qualification. For initial onboarding, verified certificates, a video walkthrough and references are usually sufficient.</div>
-    </details>
-    <details class="faq-item">
-      <summary>Can we communicate in Hindi?</summary>
-      <div class="faq-body">हाँ, बिल्कुल। Calls, WhatsApp and emails are all fine in Hindi or English — whichever is easier for your team. Commercial documents (PO, specs, inspection reports) are issued in English as standard export practice.</div>
     </details>
     <details class="faq-item">
       <summary>Why don't you show your client names on this website?</summary>

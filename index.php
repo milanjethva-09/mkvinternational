@@ -1,7 +1,7 @@
 <?php
 $currentPage = 'home';
 $pageTitle = 'MKV International Ltd — UK & EU Import and Sourcing House | London';
-$pageDesc  = 'London-based import & sourcing company connecting quality-certified Indian manufacturers with retailers and brands across the UK and EU. Organic, pharmaceutical, apparel, leather, home & kitchen sourcing.';
+$pageDesc  = 'London-based import & sourcing company connecting quality-certified Indian manufacturers with retailers and brands across the UK and EU. Organic, pharma, food & agro, apparel, leather, beauty, home & kitchen, hardware sourcing.';
 require 'includes/header.php';
 ?>
 
@@ -45,7 +45,7 @@ require 'includes/header.php';
   <div class="container">
     <div class="section-head">
       <span class="eyebrow">What We Source</span>
-      <h2>Six categories. One standard: export quality.</h2>
+      <h2>Nine categories. One standard: export quality.</h2>
       <p>We work with manufacturers who hold recognised certifications and can consistently deliver to UK and EU retail specifications.</p>
     </div>
     <div class="card-grid">
@@ -78,6 +78,21 @@ require 'includes/header.php';
         <h3>Handicrafts &amp; Lifestyle</h3>
         <p>Artisanal d&eacute;cor, gifting and seasonal programmes, plus eco-lifestyle lines in jute, bamboo and recycled materials.</p>
         <div class="card-hubs"><strong>We look for</strong> Craftmark &middot; Fair Trade &middot; consistent batch quality</div>
+      </div>
+      <div class="card reveal">
+        <h3>Agro &amp; Food Products</h3>
+        <p>Rice, spices, tea &amp; coffee, pulses and processed foods for UK and EU wholesale and retail programmes.</p>
+        <div class="card-hubs"><strong>We look for</strong> FSSAI &middot; HACCP / ISO 22000 &middot; BRC Food &middot; APEDA</div>
+      </div>
+      <div class="card reveal">
+        <h3>Beauty &amp; Personal Care</h3>
+        <p>Skincare, hair care, soaps, essential oils and fragrances — private-label ready for UK and EU shelves.</p>
+        <div class="card-hubs"><strong>We look for</strong> ISO 22716 GMP &middot; AYUSH licence &middot; CPSR-ready documentation</div>
+      </div>
+      <div class="card reveal">
+        <h3>Engineering &amp; Hardware</h3>
+        <p>Architectural hardware, brass components, hand tools, fasteners and fittings from India's engineering clusters.</p>
+        <div class="card-hubs"><strong>We look for</strong> ISO 9001 &middot; CE / UKCA where applicable &middot; material test certificates</div>
       </div>
     </div>
     <p style="margin-top:34px;"><a href="industries.php" class="btn btn-outline-navy">Explore All Industries</a></p>
@@ -148,8 +163,8 @@ require 'includes/header.php';
       </div>
       <div class="why-item reveal">
         <div class="why-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f2440" stroke-width="2"><path d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.4-4 8-9 8a9.9 9.9 0 01-4-.8L3 20l1.3-3.9A7.4 7.4 0 013 12c0-4.4 4-8 9-8s9 3.6 9 8z"/></svg></div>
-        <div><h3>English &amp; Hindi, on WhatsApp</h3>
-        <p>Direct communication with decision-makers in London — in English or Hindi, on the channels Indian exporters actually use.</p></div>
+        <div><h3>Direct access to the buying team</h3>
+        <p>No layers of agents between you and the buyer. Your enquiry lands with decision-makers in London and receives a reply within two business days.</p></div>
       </div>
       <div class="why-item reveal">
         <div class="why-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f2440" stroke-width="2"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zM2 12h20M12 2c2.5 2.7 4 6.2 4 10s-1.5 7.3-4 10c-2.5-2.7-4-6.2-4-10s1.5-7.3 4-10z"/></svg></div>
@@ -176,27 +191,4 @@ require 'includes/header.php';
       <span class="chip"><strong>Kanpur</strong> — leather</span>
       <span class="chip"><strong>Chennai</strong> — leather &amp; footwear</span>
       <span class="chip"><strong>Moradabad</strong> — metalware</span>
-      <span class="chip"><strong>Jodhpur</strong> — wooden furniture</span>
-      <span class="chip"><strong>Jaipur</strong> — prints, d&eacute;cor &amp; crafts</span>
-      <span class="chip"><strong>Khurja</strong> — ceramics</span>
-      <span class="chip"><strong>Karur</strong> — kitchen &amp; table linen</span>
-      <span class="chip"><strong>Baddi</strong> — pharma</span>
-      <span class="chip"><strong>Ahmedabad</strong> — pharma &amp; textiles</span>
-      <span class="chip"><strong>Kutch</strong> — artisanal crafts</span>
-    </div>
-  </div>
-</section>
-
-<!-- CTA -->
-<section class="cta-band">
-  <div class="container">
-    <h2>Manufacturing in India? Let's talk.</h2>
-    <p>Submit your company profile and we will review it against live and upcoming sourcing programmes. No fees, no middle layers — a direct line to a UK buyer.</p>
-    <div class="btn-row">
-      <a href="suppliers.php" class="btn btn-gold">Become a Supplier</a>
-      <a href="<?php echo wa_link(); ?>" target="_blank" rel="noopener" class="btn btn-outline">Message Us on WhatsApp</a>
-    </div>
-  </div>
-</section>
-
-<?php require 'includes/footer.php'; ?>
+      <span class="chip"><strong>Jodhpur</strong> — wooden furnitu
