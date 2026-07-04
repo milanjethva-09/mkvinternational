@@ -65,13 +65,7 @@ img { max-width: 100%; }
   padding-top: 14px; padding-bottom: 14px; gap: 20px;
 }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; }
-.brand-mark {
-  font-family: var(--serif); font-weight: 700; font-size: 19px;
-  color: var(--gold); background: var(--navy);
-  border: 1px solid var(--gold);
-  width: 52px; height: 52px; display: flex; align-items: center; justify-content: center;
-  letter-spacing: 0.02em; flex-shrink: 0;
-}
+.brand-mark { width: 46px; height: 46px; flex-shrink: 0; display: block; }
 .brand-text { display: flex; flex-direction: column; }
 .brand-name {
   font-family: var(--serif); font-weight: 600; font-size: 19px;
@@ -471,4 +465,21 @@ img { max-width: 100%; }
   .footer-grid { padding: 40px 18px 30px; gap: 24px; }
   .site-footer { font-size: 13.5px; }
   .footer-legal { font-size: 11px; }
+}
+
+/* ---------- Mobile: smaller logo + titles ---------- */
+@media (max-width: 720px) {
+  .brand-mark { width: 33px; height: 33px; }
+  .brand-name { font-size: 13.5px; letter-spacing: 0.05em; }
+  .brand-tag { font-size: 7.5px; letter-spacing: 0.13em; }
+  .header-inner { gap: 10px; padding-top: 8px; padding-bottom: 8px; }
+  .topbar { font-size: 10.5px; }
+  .hero h1 { font-size: 24px; }
+  .page-banner h1 { font-size: 22px; }
+  .section-head h2 { font-size: 21px; }
+  .cta-band h2 { font-size: 20px; }
+}
+@media (max-width: 400px) {
+  .brand-tag { display: none; }
+  .brand-name { font-size: 12.5px; }
 }

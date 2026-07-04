@@ -3,7 +3,7 @@
   <div class="container footer-grid">
     <div class="footer-col footer-about">
       <div class="brand footer-brand">
-        <span class="brand-mark">MKV</span>
+        <svg class="brand-mark" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="32" cy="32" r="30" fill="#0f2440"/><circle cx="32" cy="32" r="29" fill="none" stroke="#c8a04b" stroke-width="2"/><circle cx="32" cy="32" r="24" fill="none" stroke="#c8a04b" stroke-width="0.8" opacity="0.7"/><rect x="30.6" y="5.6" width="2.8" height="2.8" transform="rotate(45 32 7)" fill="#c8a04b"/><rect x="30.6" y="55.6" width="2.8" height="2.8" transform="rotate(45 32 57)" fill="#c8a04b"/><text x="32" y="36.5" font-family="Fraunces, Georgia, serif" font-size="15.5" font-weight="600" letter-spacing="1.2" fill="#c8a04b" text-anchor="middle">MKV</text><text x="32" y="45.5" font-family="Inter, Arial, sans-serif" font-size="5" letter-spacing="2.2" fill="#e3c98a" text-anchor="middle">LONDON</text></svg>
         <span class="brand-text">
           <span class="brand-name">MKV INTERNATIONAL</span>
           <span class="brand-tag">Import &amp; Sourcing &middot; London</span>
