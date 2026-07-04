@@ -391,3 +391,84 @@ img { max-width: 100%; }
   .facts-table th, .facts-table td { display: block; }
   .facts-table th { border-bottom: none; padding-bottom: 4px; }
 }
+
+/* ---------- Mobile refinement: compact scale (overrides above rules on phones) ---------- */
+@media (max-width: 720px) {
+  body { font-size: 15px; line-height: 1.6; }
+  .container { padding: 0 18px; }
+  .topbar { font-size: 11.5px; }
+  .header-inner { padding-top: 10px; padding-bottom: 10px; }
+  .brand-mark { width: 42px; height: 42px; font-size: 15px; }
+  .brand-name { font-size: 15.5px; }
+  .brand-tag { font-size: 9px; letter-spacing: 0.18em; }
+
+  .hero { padding: 44px 0 40px; }
+  .hero h1 { font-size: 27px; margin-bottom: 14px; }
+  .hero p.lead { font-size: 15px; margin-bottom: 22px; }
+  .eyebrow { font-size: 10.5px; letter-spacing: 0.18em; margin-bottom: 14px; }
+  .eyebrow::before { width: 22px; margin-right: 8px; }
+  .btn { padding: 11px 20px; font-size: 14px; }
+
+  .trust-grid { padding: 20px 18px; gap: 14px; }
+  .trust-item strong { font-size: 13.5px; }
+  .trust-item span { font-size: 12px; }
+
+  .section { padding: 44px 0; }
+  .section-head { margin-bottom: 28px; }
+  .section-head h2 { font-size: 23px; }
+  .section-head p { font-size: 14.5px; }
+
+  .card { padding: 20px 18px; }
+  .card h3 { font-size: 17.5px; }
+  .card p { font-size: 13.5px; margin-bottom: 10px; }
+  .card .card-hubs { font-size: 11.5px; }
+
+  .step { padding: 18px 16px; }
+  .step-num { width: 28px; height: 28px; font-size: 13px; margin-bottom: 10px; }
+  .step h3 { font-size: 15.5px; }
+  .step p { font-size: 13px; }
+
+  .why-item { padding: 16px; gap: 12px; }
+  .why-icon { width: 36px; height: 36px; }
+  .why-item h3 { font-size: 15.5px; }
+  .why-item p { font-size: 13.5px; }
+
+  .chip { font-size: 12px; padding: 7px 13px; }
+
+  .cta-band { padding: 44px 0; }
+  .cta-band h2 { font-size: 22px; }
+  .cta-band p { font-size: 14.5px; margin-bottom: 20px; }
+
+  .page-banner { padding: 36px 0 32px; }
+  .page-banner h1 { font-size: 25px; }
+  .page-banner p { font-size: 14.5px; }
+
+  .timeline::before { left: 17px; }
+  .t-num { width: 36px; height: 36px; font-size: 14px; }
+  .t-item { padding: 0 0 30px 58px; }
+  .t-item h3 { font-size: 17px; }
+  .t-item p { font-size: 14px; }
+
+  .industry-block { padding: 32px 0; gap: 18px; }
+  .industry-block h2 { font-size: 21px; }
+  .industry-block p { font-size: 14px; }
+  .spec-box { padding: 18px; }
+  .spec-box li { font-size: 13px; }
+
+  .form-wrap { padding: 20px 16px; }
+  .form-grid { gap: 14px; }
+  .form-field label { font-size: 12.5px; }
+  .form-field input, .form-field select, .form-field textarea { padding: 10px 12px; font-size: 14px; }
+
+  .faq-item summary { font-size: 14.5px; padding: 14px 40px 14px 16px; }
+  .faq-item summary::after { right: 16px; }
+  .faq-item .faq-body { font-size: 13.5px; padding: 0 16px 16px; }
+
+  .contact-card { padding: 18px; }
+  .facts-table th, .facts-table td { padding: 10px 14px; font-size: 13.5px; }
+  .map-embed iframe { height: 260px; }
+
+  .footer-grid { padding: 40px 18px 30px; gap: 24px; }
+  .site-footer { font-size: 13.5px; }
+  .footer-legal { font-size: 11px; }
+}

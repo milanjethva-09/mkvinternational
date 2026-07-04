@@ -184,24 +184,24 @@ require 'includes/header.php';
       <p>Sourcing is done cluster by cluster — because that is where the real capability sits.</p>
     </div>
     <div class="cluster-chips">
-      <span class="chip"><strong>Panipat</strong> — home textiles &amp; rugs</span>
-      <span class="chip"><strong>Bhadohi</strong> — handmade carpets</span>
-      <span class="chip"><strong>Tirupur</strong> — knitwear</span>
-      <span class="chip"><strong>Ludhiana</strong> — woollens</span>
-      <span class="chip"><strong>Kanpur</strong> — leather</span>
-      <span class="chip"><strong>Chennai</strong> — leather &amp; footwear</span>
-      <span class="chip"><strong>Moradabad</strong> — metalware</span>
-      <span class="chip"><strong>Jodhpur</strong> — wooden furniture</span>
-      <span class="chip"><strong>Jaipur</strong> — prints, d&eacute;cor &amp; crafts</span>
-      <span class="chip"><strong>Khurja</strong> — ceramics</span>
-      <span class="chip"><strong>Karur</strong> — kitchen &amp; table linen</span>
-      <span class="chip"><strong>Baddi</strong> — pharma</span>
-      <span class="chip"><strong>Ahmedabad</strong> — pharma &amp; textiles</span>
-      <span class="chip"><strong>Kutch</strong> — artisanal crafts</span>
-      <span class="chip"><strong>Kochi</strong> — spices &amp; agro</span>
-      <span class="chip"><strong>Aligarh</strong> — locks &amp; hardware</span>
-      <span class="chip"><strong>Jamnagar</strong> — brass components</span>
-      <span class="chip"><strong>Kannauj</strong> — essential oils</span>
+      <span class="chip"><strong>Tirupur</strong> &mdash; knitwear</span>
+      <span class="chip"><strong>Baddi</strong> &mdash; pharma</span>
+      <span class="chip"><strong>Ahmedabad</strong> &mdash; pharma &amp; textiles</span>
+      <span class="chip"><strong>Ludhiana</strong> &mdash; woollens</span>
+      <span class="chip"><strong>Kanpur</strong> &mdash; leather</span>
+      <span class="chip"><strong>Chennai</strong> &mdash; leather &amp; footwear</span>
+      <span class="chip"><strong>Moradabad</strong> &mdash; metalware</span>
+      <span class="chip"><strong>Jodhpur</strong> &mdash; wooden furniture</span>
+      <span class="chip"><strong>Jaipur</strong> &mdash; prints, d&eacute;cor &amp; crafts</span>
+      <span class="chip"><strong>Khurja</strong> &mdash; ceramics</span>
+      <span class="chip"><strong>Karur</strong> &mdash; kitchen &amp; table linen</span>
+      <span class="chip"><strong>Kutch</strong> &mdash; artisanal crafts</span>
+      <span class="chip"><strong>Kochi</strong> &mdash; spices &amp; agro</span>
+      <span class="chip"><strong>Aligarh</strong> &mdash; locks &amp; hardware</span>
+      <span class="chip"><strong>Jamnagar</strong> &mdash; brass components</span>
+      <span class="chip"><strong>Kannauj</strong> &mdash; essential oils</span>
+      <span class="chip"><strong>Panipat</strong> &mdash; home textiles &amp; rugs</span>
+      <span class="chip"><strong>Bhadohi</strong> &mdash; handmade carpets</span>
     </div>
   </div>
 </section>
