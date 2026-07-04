@@ -20,7 +20,8 @@ require 'includes/header.php';
         <span class="eyebrow">Who We Are</span>
         <h2>Import &amp; sourcing, end to end.</h2>
         <p>MKV International Limited is an import and sourcing company registered in England &amp; Wales and headquartered in Covent Garden, London. We supply retailers, importers and brands across the United Kingdom and the European Union with products manufactured in India — from organic foods to apparel, leather goods, home &amp; kitchen lines and handicrafts.</p>
-        <p>Our role covers the full trade cycle: identifying and qualifying manufacturers, floating RFQs, negotiating commercial terms, managing sampling and quality control, and handling shipping, customs and compliance into the UK and EU.</p>
+        <p>Our role covers the full trade cycle: identifying and qualifying manufacturers, floating RFQs, negotiating commercial terms, managing sampling and quality control, and coordinating shipping and customs clearance into the UK and EU.</p>
+        <p>We act as a sourcing and buying agent, connecting UK and EU buyers directly with qualified Indian manufacturers — we are not ourselves the manufacturer, brand owner or regulatory "responsible person" for any product we help source. Where a category carries its own licensing regime (cosmetics or food, for example), that formal compliance role sits with the manufacturer's own compliant export arrangement or with the client's UK/EU entity; our part is to verify supplier documentation and connect the right partners.</p>
         <p><strong>A note on confidentiality:</strong> our clients compete in crowded retail markets, and supplier relationships are commercially sensitive. We therefore operate under NDA and do not publish client names, store programmes or volumes. What we can always share openly is who we are — and exactly how we work.</p>
       </div>
       <div class="spec-box">

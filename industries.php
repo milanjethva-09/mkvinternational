@@ -10,6 +10,7 @@ require 'includes/header.php';
     <span class="eyebrow">Industries</span>
     <h1>Category expertise, cluster by cluster.</h1>
     <p>Every category has its own certifications, its own compliance regime and its own manufacturing geography in India. This is how we approach each one.</p>
+    <p>Our part is sourcing, vetting and connecting the right manufacturers. Formal compliance roles — a Cosmetic Responsible Person, Food Business Operator registration, a wholesale dealer authorisation and the like — sit with the manufacturer's own export arrangement or with the client's UK/EU entity, not with us.</p>
   </div>
 </section>
 
@@ -146,7 +147,7 @@ require 'includes/header.php';
         <span class="eyebrow">06 — Agro &amp; Food Products</span>
         <h2>Agro &amp; Food Products</h2>
         <p>India is among the world's largest exporters of rice, spices and tea. We source staple and processed foods — basmati and non-basmati rice, whole and ground spices, tea &amp; coffee, pulses, edible oils and processed or frozen foods — for UK and EU wholesale and retail programmes.</p>
-        <p>Food is a documentation-heavy category and we treat it accordingly: FSSAI-licensed exporters, batch traceability, residue and contaminant testing to destination-market limits, and correct labelling for UK FSA and EU requirements — all confirmed before goods ship, not after.</p>
+        <p>Food is a documentation-heavy category and we treat it accordingly: we verify FSSAI-licensed exporters, batch traceability, and residue/contaminant test reports against destination-market limits before goods ship. Final UK FSA / EU labelling sign-off and Food Business Operator registration sit with the importing business, which we support with full supplier documentation.</p>
       </div>
       <div class="spec-box">
         <h4>Certifications We Look For</h4>
@@ -171,7 +172,7 @@ require 'includes/header.php';
         <span class="eyebrow">07 — Beauty &amp; Personal Care</span>
         <h2>Beauty &amp; Personal Care</h2>
         <p>Skincare, hair care, soaps, bath products, essential oils and fragrances — including private-label programmes for UK and EU retailers and brands. India's herbal and botanical manufacturing base is one of the strongest in the world.</p>
-        <p>Cosmetics entering the UK and EU need a compliant route to shelf: safety assessment (CPSR), responsible-person arrangements, correct INCI labelling and notification. We manage that pathway with our partners, and prioritise manufacturers who can supply full formulation and stability documentation.</p>
+        <p>Cosmetics entering the UK and EU need a compliant route to shelf: safety assessment (CPSR), a nominated Responsible Person, correct INCI labelling and product notification. These are formal roles that sit with the brand or importer of record — we connect you with manufacturers already set up to support that pathway, and prioritise those who can supply full formulation and stability documentation.</p>
       </div>
       <div class="spec-box">
         <h4>Certifications We Look For</h4>

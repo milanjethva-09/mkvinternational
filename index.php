@@ -10,7 +10,7 @@ require 'includes/header.php';
   <div class="container hero-inner">
     <span class="eyebrow">London &middot; Import &amp; Sourcing House &middot; Est. <?php echo COMPANY_EST; ?></span>
     <h1>Bridging India's finest manufacturers with retailers across the <em>UK &amp; Europe</em>.</h1>
-    <p class="lead">MKV International is a London-based import and sourcing company. We build long-term supply programmes between quality-certified Indian manufacturers and retail buyers in the United Kingdom and the European Union — managing RFQs, sampling, quality control and import compliance end to end.</p>
+    <p class="lead">MKV International is a London-based import and sourcing company. We build long-term supply programmes between quality-certified Indian manufacturers and retail buyers in the United Kingdom and the European Union — managing RFQs, sampling, quality control and shipping logistics end to end.</p>
     <div class="btn-row">
       <a href="suppliers.php" class="btn btn-gold">Become a Supplier</a>
       <a href="how-we-work.php" class="btn btn-outline">How We Work</a>
@@ -163,8 +163,8 @@ require 'includes/header.php';
       </div>
       <div class="why-item reveal">
         <div class="why-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0f2440" stroke-width="2"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zM2 12h20M12 2c2.5 2.7 4 6.2 4 10s-1.5 7.3-4 10c-2.5-2.7-4-6.2-4-10s1.5-7.3 4-10z"/></svg></div>
-        <div><h3>UK &amp; EU compliance handled</h3>
-        <p>EORI, customs, duties, labelling and documentation on the import side are our responsibility — you focus on manufacturing.</p></div>
+        <div><h3>UK &amp; EU import logistics coordinated</h3>
+        <p>Customs, duties and shipping documentation on the import side are coordinated by us and our clients' own compliant import arrangements — you focus on manufacturing.</p></div>
       </div>
     </div>
   </div>

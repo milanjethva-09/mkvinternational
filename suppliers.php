@@ -11,7 +11,7 @@ $error = isset($_GET['error']);
   <div class="container">
     <span class="eyebrow">For Indian Manufacturers</span>
     <h1>Become a supplier to UK &amp; EU retail.</h1>
-    <p>You focus on manufacturing. We bring the buyers, the specs, the QC framework and the import compliance. No registration fees, no middle layers — a direct line to a London buying office.</p>
+    <p>You focus on manufacturing. We bring the buyers, the specs, the QC framework and coordinate import logistics. No registration fees, no middle layers — a direct line to a London buying office.</p>
   </div>
 </section>
 

@@ -48,8 +48,8 @@ require 'includes/header.php';
       </div>
       <div class="t-item reveal">
         <div class="t-num">7</div>
-        <h3>Shipping, Customs &amp; Import Compliance</h3>
-        <p>Export documentation is coordinated with the manufacturer and our freight partners. On the import side — UK/EU customs entry, EORI, duties, VAT and labelling compliance — the responsibility is ours, not yours.</p>
+        <h3>Shipping &amp; Customs Coordination</h3>
+        <p>Export documentation is coordinated with the manufacturer and our freight partners. On the import side, we coordinate customs entry, duties and VAT alongside our clients' own compliant import arrangements — manufacturers are never left to navigate destination-market paperwork alone.</p>
       </div>
       <div class="t-item reveal">
         <div class="t-num">8</div>
