@@ -21,7 +21,6 @@
     <div class="footer-col">
       <h4>Sourcing Categories</h4>
       <a href="industries.php#organic">Organic &amp; Wellness</a>
-      <a href="industries.php#pharma">Pharmaceutical &amp; Nutraceutical</a>
       <a href="industries.php#fashion">Fashion &amp; Apparel</a>
       <a href="industries.php#leather">Leather Goods</a>
       <a href="industries.php#home">Home &amp; Kitchen</a>

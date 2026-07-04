@@ -19,7 +19,7 @@ require 'includes/header.php';
       <div>
         <span class="eyebrow">Who We Are</span>
         <h2>Import &amp; sourcing, end to end.</h2>
-        <p>MKV International Limited is an import and sourcing company registered in England &amp; Wales and headquartered in Covent Garden, London. We supply retailers, importers and brands across the United Kingdom and the European Union with products manufactured in India — from organic foods and nutraceuticals to apparel, leather goods, home &amp; kitchen lines and handicrafts.</p>
+        <p>MKV International Limited is an import and sourcing company registered in England &amp; Wales and headquartered in Covent Garden, London. We supply retailers, importers and brands across the United Kingdom and the European Union with products manufactured in India — from organic foods to apparel, leather goods, home &amp; kitchen lines and handicrafts.</p>
         <p>Our role covers the full trade cycle: identifying and qualifying manufacturers, floating RFQs, negotiating commercial terms, managing sampling and quality control, and handling shipping, customs and compliance into the UK and EU.</p>
         <p><strong>A note on confidentiality:</strong> our clients compete in crowded retail markets, and supplier relationships are commercially sensitive. We therefore operate under NDA and do not publish client names, store programmes or volumes. What we can always share openly is who we are — and exactly how we work.</p>
       </div>
@@ -50,7 +50,7 @@ require 'includes/header.php';
     <div class="card-grid">
       <div class="card reveal">
         <h3>Quality Systems</h3>
-        <p>Recognised certifications relevant to your category — GOTS, OEKO-TEX, WHO-GMP, ISO 9001, LWG, SEDEX/BSCI, organic certification — with documentation you can actually produce on request.</p>
+        <p>Recognised certifications relevant to your category — GOTS, OEKO-TEX, ISO 9001, LWG, SEDEX/BSCI, organic certification — with documentation you can actually produce on request.</p>
       </div>
       <div class="card reveal">
         <h3>Export Readiness</h3>

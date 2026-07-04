@@ -105,7 +105,6 @@ $error = isset($_GET['error']);
             <select id="category" name="category" required>
               <option value="">— Select category —</option>
               <option>Organic &amp; Wellness</option>
-              <option>Pharmaceutical &amp; Nutraceutical</option>
               <option>Fashion &amp; Apparel</option>
               <option>Leather Goods</option>
               <option>Home &amp; Kitchen</option>
@@ -129,7 +128,7 @@ $error = isset($_GET['error']);
             <input type="text" id="gst" name="gst">
           </div>
           <div class="form-field full">
-            <label for="certifications">Certifications Held <span class="opt">(GOTS, OEKO-TEX, WHO-GMP, ISO, SEDEX, LWG, Organic…)</span></label>
+            <label for="certifications">Certifications Held <span class="opt">(GOTS, OEKO-TEX, ISO, SEDEX, LWG, Organic…)</span></label>
             <input type="text" id="certifications" name="certifications">
           </div>
           <div class="form-field">

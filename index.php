@@ -1,7 +1,7 @@
 <?php
 $currentPage = 'home';
 $pageTitle = 'MKV International Ltd — UK & EU Import and Sourcing House | London';
-$pageDesc  = 'London-based import & sourcing company connecting quality-certified Indian manufacturers with retailers and brands across the UK and EU. Organic, pharma, food & agro, apparel, leather, beauty, home & kitchen, hardware sourcing.';
+$pageDesc  = 'London-based import & sourcing company connecting quality-certified Indian manufacturers with retailers and brands across the UK and EU. Organic, food & agro, apparel, leather, beauty, home & kitchen, hardware sourcing.';
 require 'includes/header.php';
 ?>
 
@@ -53,11 +53,6 @@ require 'includes/header.php';
         <h3>Organic &amp; Wellness</h3>
         <p>Organic foods, spices, cold-pressed oils, superfoods, ayurvedic &amp; herbal personal care for UK and EU organic retail.</p>
         <div class="card-hubs"><strong>We look for</strong> EU/UK Organic &middot; USDA NOP &middot; India Organic (NPOP) &middot; FSSAI</div>
-      </div>
-      <div class="card reveal">
-        <h3>Pharmaceutical &amp; Nutraceutical</h3>
-        <p>Nutraceuticals, supplements, medical consumables and OTC-adjacent products through fully compliant regulatory pathways.</p>
-        <div class="card-hubs"><strong>We look for</strong> WHO-GMP &middot; EU-GMP &middot; ISO 13485 &middot; CoA-backed batches</div>
       </div>
       <div class="card reveal">
         <h3>Fashion &amp; Apparel</h3>
@@ -185,8 +180,7 @@ require 'includes/header.php';
     </div>
     <div class="cluster-chips">
       <span class="chip"><strong>Tirupur</strong> &mdash; knitwear</span>
-      <span class="chip"><strong>Baddi</strong> &mdash; pharma</span>
-      <span class="chip"><strong>Ahmedabad</strong> &mdash; pharma &amp; textiles</span>
+      <span class="chip"><strong>Ahmedabad</strong> &mdash; textiles</span>
       <span class="chip"><strong>Ludhiana</strong> &mdash; woollens</span>
       <span class="chip"><strong>Kanpur</strong> &mdash; leather</span>
       <span class="chip"><strong>Chennai</strong> &mdash; leather &amp; footwear</span>
