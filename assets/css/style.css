@@ -64,17 +64,18 @@ img { max-width: 100%; }
   display: flex; align-items: center; justify-content: space-between;
   padding-top: 14px; padding-bottom: 14px; gap: 20px;
 }
-.brand { display: flex; align-items: center; gap: 12px; text-decoration: none; }
+.brand { display: flex; flex-direction: column; align-items: flex-start; gap: 4px; text-decoration: none; }
 .brand-mark { width: 46px; height: 46px; flex-shrink: 0; display: block; }
 .brand-text { display: flex; flex-direction: column; }
 .brand-name {
-  font-family: var(--serif); font-weight: 600; font-size: 19px;
-  color: var(--navy); letter-spacing: 0.06em;
+  font-family: var(--serif); font-weight: 600; font-size: 20px;
+  color: var(--navy); letter-spacing: 0.12em; line-height: 1;
 }
 .brand-tag {
-  font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.22em;
-  color: var(--muted);
+  font-size: 8.5px; text-transform: uppercase; letter-spacing: 0.3em;
+  color: var(--gold); display: flex; align-items: center; gap: 8px; line-height: 1;
 }
+.brand-tag::before, .brand-tag::after { content: ""; width: 20px; height: 1px; background: var(--gold); }
 .site-nav { display: flex; align-items: center; gap: 26px; }
 .site-nav a {
   text-decoration: none; color: var(--ink); font-size: 15px; font-weight: 500;
@@ -482,4 +483,13 @@ img { max-width: 100%; }
 @media (max-width: 400px) {
   .brand-tag { display: none; }
   .brand-name { font-size: 12.5px; }
+}
+
+/* ---------- Wordmark: mobile scale ---------- */
+@media (max-width: 720px) {
+  .brand { gap: 3px; }
+  .brand-name { font-size: 12.5px; letter-spacing: 0.1em; }
+  .brand-tag { font-size: 6px; letter-spacing: 0.22em; gap: 6px; display: flex; }
+  .brand-tag::before, .brand-tag::after { width: 12px; }
+  .footer-brand .brand-name { font-size: 13px; }
 }
